@@ -10,11 +10,11 @@ This repository contains coursework and projects for CIS 3400.
 
 # CIS 3400 — Advanced Programming (Fall 2026)
 
-**Student:** YOUR NAME
+**Student:** Dyllon Houghton
 
 ## About This Repository
 
-Write one or two sentences about you, and what's in this repository.
+I am a cybersecurity major with a 3.75 GPA and a 
 
 ## Notebooks
 
