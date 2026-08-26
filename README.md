@@ -14,7 +14,7 @@ This repository contains coursework and projects for CIS 3400.
 
 ## About This Repository
 
-I am a cybersecurity major with a 3.75 GPA and a 
+I am a cybersecurity major with a 3.75 GPA and a student athlete at Catawba College. This repository is gonna be about my process and different Google Colab codes I use in my Advanced Programming class.
 
 ## Notebooks
 
