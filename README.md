@@ -26,4 +26,7 @@ Focus: Running cells in Colab, loading a dataset with pandas, and making a plot.
 ### Week 2:
 
 
+### Week 8: Notebook 1 Prepare 2025 311 Dashboard Date
+<br> <a href="https://colab.research.google.com/drive/1zX2jiLKWZ9r_JxJI4Wa-9A4eTf9AmWVk?usp=sharing"> Notebook 1</a>
+
 ## End
